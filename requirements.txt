@@ -1,0 +1,4 @@
+jupyterlab
+jupyter-contrib-nbextensions
+opencv-python==4.2.0.32
+matplotlib==3.2.0
